@@ -1,0 +1,23 @@
+{
+  "name": "storybook-wc-lit-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "start-storybook -p 6006",
+    "build": "build-storybook"
+  },
+  "keywords": [],
+  "author": "Juan Fernando Gómez Maldonado <difex01@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "@storybook/addon-actions": "^6.4.14",
+    "@storybook/addon-essentials": "^6.4.14",
+    "@storybook/addon-links": "^6.4.14",
+    "@storybook/web-components": "^6.4.14",
+    "@web/dev-server-storybook": "^0.4.2",
+    "babel-loader": "^8.2.3"
+  },
+  "dependencies": {}
+}
